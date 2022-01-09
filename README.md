@@ -14,5 +14,5 @@ Given the election results in the form of a CSV file I used python to create a t
   * Diana DeGette: 272,892 votes or 73.8% of the vote
   * Raymon Anthony Doane: 11,606  or 3.1% of the vote
 * **Diana DeGette** won the electio by a large margin reciving 272,892 votes totaling 73.8% of the vote
-## Eleciton-Audidt summary
+## Eleciton-Audit summary
 I belive this script could continue to be useful to the election board. With a modification of the import command at the beggining of the code they analyze any other election results in CSV form. This script could also be modified in future elections to display the voter Ballot ID to search for duplicate ballots or other mistakes to combat election fraud.  
